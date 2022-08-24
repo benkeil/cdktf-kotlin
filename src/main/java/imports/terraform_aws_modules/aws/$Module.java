@@ -45,7 +45,7 @@ public final class $Module extends JsiiModule {
     private final Map<String, Class<?>> cache = new HashMap<>();
 
     public $Module() {
-        super("terraform-aws-modules_s3-bucket_aws", "0.0.0", $Module.class, "terraform-aws-modules_s3-bucket_aws@0.0.0.jsii.tgz");
+        super("terraform-aws-modules_lambda_aws", "0.0.0", $Module.class, "terraform-aws-modules_lambda_aws@0.0.0.jsii.tgz");
     }
 
     @Override

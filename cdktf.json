@@ -6,7 +6,7 @@
   "codeMakerOutput": "src/main/java/imports",
   "terraformProviders": [],
   "terraformModules": [
-    "terraform-aws-modules/s3-bucket/aws"
+    "terraform-aws-modules/lambda/aws"
   ],
   "context": {
     "excludeStackIdFromLogicalIds": "true",
