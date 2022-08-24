@@ -1,0 +1,2 @@
+terraform-aws-modules_s3-bucket_aws.S3Bucket=imports.terraform_aws_modules.aws.S3Bucket
+terraform-aws-modules_s3-bucket_aws.S3BucketOptions=imports.terraform_aws_modules.aws.S3BucketOptions

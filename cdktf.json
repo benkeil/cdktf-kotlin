@@ -1,0 +1,15 @@
+{
+  "language": "java",
+  "app": "./gradlew run",
+  "projectId": "cde4307b-d5d5-453d-a811-e51775ecc7d0",
+  "sendCrashReports": "false",
+  "codeMakerOutput": "src/main/java/imports",
+  "terraformProviders": [],
+  "terraformModules": [
+    "terraform-aws-modules/s3-bucket/aws"
+  ],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
